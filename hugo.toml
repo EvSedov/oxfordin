@@ -3,6 +3,7 @@
 # baseURL = "/" 
 baseURL = "https://evsedov.github.io/oxfordinkemerovo" # for deploying in github
 # baseURL = "https://oxfordinkemerovo.ru" # for deploying in reg.ru
+
 # Title of your website (required).
 title = "Oxford in Kemerovo"
 # Your theme name
