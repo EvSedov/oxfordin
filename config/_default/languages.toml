@@ -1,6 +1,6 @@
 ################ Russian language ##################
 [ru]
-languageName = "ru"
-languageCode = "ru-Ru"
+languageName = "Ru"
+languageCode = "ru-ru"
 contentDir = "content/russian"
 weight = 1
