@@ -1,1 +1,15 @@
 // Add your own custom styles here
+.shortcodes-svg {
+  margin: 0 !important;
+  padding: 0;
+}
+
+.shortcodes-svg a {
+  display: inline-block !important;
+}
+
+.shortcodes-svg svg {
+  width: 15px;
+  height: 15px;
+  fill: red;
+}
